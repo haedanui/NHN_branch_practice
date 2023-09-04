@@ -2,9 +2,9 @@ class Main{
     public static void main(String[] args) {
         int x = 10;
         int y = 20;
-        x.add(y);
-        x.sub(y);
-        x.mul(y);
-        x.div(y);
+        add(int x, int y);
+        sub(int x, int y);
+        mul(int x, int y);
+        sub(int x, int y);
     }
 }
