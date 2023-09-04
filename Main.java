@@ -4,8 +4,8 @@ class Main{
         int x = 10;
         int y = 20;
         add.add(x,y);
-        sub(x, y);
-        mul(x, y);
+        sub.sub(x, y);
+        Mul.mul(x, y);
         div.div(x, y);
     }
 }
